@@ -1,4 +1,4 @@
-# MLOps 2025-26 Course Demos and Resources
+# MLOps 2026-27 Course Demos and Resources
 This is a demo project for the Machine Learning Systems in Production (MLOps) 2025-26 course (Universitat Politècnica de Catalunya-BarcelonaTech (UPC), Spain).
 
 This project follows the structure proposed by Lanubile et al. [1].
